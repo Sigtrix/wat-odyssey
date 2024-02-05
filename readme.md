@@ -1,5 +1,5 @@
 # Overview
-WebAssembly (Wasm) is a binary instruction
+WebAssembly (WASM) is a binary instruction
 format designed for a virtual stack machine. WAT is 
 the human-readable text representation of WebAssembly 
 code. It serves as an intermediate representation
