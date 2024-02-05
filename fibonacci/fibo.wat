@@ -15,11 +15,10 @@
       end
     i32.const 0
     )
-
-	;; A recursive function that returns the n-th fibonacci number.
-	;; param n: index of the number in the fibonacci sequence to return.
-    ;;          n must be satisfy 0 <= n <= 40 else -1 is returned.
-	;; return: the n-th fibonacci number.
+    ;; A recursive function that returns the n-th fibonacci number.
+    ;; param n: index of the number in the fibonacci sequence to return.
+    ;; n must be satisfy 0 <= n <= 40 else -1 is returned.
+    ;; return: the n-th fibonacci number.
     (func $fibo (export "fibo") (param $n i32) (result i32)
       (call $validate_input (local.get $n))
       if
