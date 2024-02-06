@@ -1,14 +1,12 @@
 # Overview
-WebAssembly (WASM) is a binary instruction
-format designed for a virtual stack machine. WAT is 
+WAT is 
 the human-readable text representation of WebAssembly 
 code. It serves as an intermediate representation
 that can be easily read and written by developers, 
 providing a bridge between the binary WebAssembly 
 format and high-level programming languages. 
 While developers will usually not write code 
-directly in WAT, it is fun as programming
-a stack machine necessarily gives it a very 
+directly in WAT, it is fun and has a very 
 functional feeling! 🤠
 
 # Running Examples
