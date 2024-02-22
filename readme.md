@@ -6,8 +6,7 @@ that can be easily read and written by developers,
 providing a bridge between the binary WebAssembly 
 format and high-level programming languages. 
 While developers will usually not write code 
-directly in WAT, it is fun and has a very 
-functional feeling! 🤠
+directly in WAT but exploring it can be intriguing.
 
 # Running Examples
 Each directory in the top-level directory has a 
